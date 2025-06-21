@@ -1,0 +1,21 @@
+{
+  "name": "skycrypt-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k1ran654/skyblock-viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/k1ran654/skyblock-viewer/issues"
+  },
+  "homepage": "https://github.com/k1ran654/skyblock-viewer#readme"
+}
