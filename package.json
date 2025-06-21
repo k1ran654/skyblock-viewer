@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "vite build",
-    "start": "serve -s dist"
+  "build": "vite build",
+  "start": "npx serve -s dist"
   },
   "repository": {
     "type": "git",
