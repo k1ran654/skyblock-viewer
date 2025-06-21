@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
   "build": "vite build",
-  "start": "vite preview --port $PORT --host"
-  },
+  "start": "http-server dist -p $PORT"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/k1ran654/skyblock-viewer.git"
@@ -20,9 +20,7 @@
   },
   "homepage": "https://github.com/k1ran654/skyblock-viewer#readme",
   "devDependencies": {
+    "http-server": "^14.1.1",
     "vite": "^6.3.5"
-  },
-  "dependencies": {
-    "serve": "^14.2.4"
   }
 }
