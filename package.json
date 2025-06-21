@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "start": "vite"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/k1ran654/skyblock-viewer.git"
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/k1ran654/skyblock-viewer/issues"
   },
-  "homepage": "https://github.com/k1ran654/skyblock-viewer#readme"
+  "homepage": "https://github.com/k1ran654/skyblock-viewer#readme",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
 }
